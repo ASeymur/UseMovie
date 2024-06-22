@@ -1,0 +1,11 @@
+.btn-added {
+    color: black;
+    background-color: #fcc419!important;
+    border: none;
+    border-radius: 10rem;
+    font-size: 1.4rem;
+    padding: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+}

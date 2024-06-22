@@ -1,0 +1,15 @@
+.starRatingWrapper {
+    display: flex;
+    align-items: center;
+    gap: 16px
+}
+
+.starRating {
+    display: flex;
+    /* gap: 4px; */
+}
+
+.textContent {
+    line-height: 1;
+    margin: 0;
+}
